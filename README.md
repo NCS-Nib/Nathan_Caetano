@@ -1,3 +1,4 @@
+<!--vou fazer as alterações aqui (já que não consegui privar kkkk), para depois alterar no perfil só para garantir que tenha link quebrado-->
 # Opa Eu sou o Nathan_Caetano
  
 🎒 estudando programação na escola virtual da Bradesco 📜
