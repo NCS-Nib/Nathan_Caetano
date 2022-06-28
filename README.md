@@ -14,7 +14,8 @@
  <div> 
   <img align="center" alt="NCS-Nib-HTML" height="50"width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg">
   <img align="center" alt="NCS-Nib-CSS" height="50"width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg">
- <!--<img align="right" alt="NCS-Nib" src="rwm53/áreadetrabalho/ProjetoSiteNib/Nib+programando.gif">-->
+  <img align="right" alt="NCS-Nib-gif" src="![Nib+programando](https://user-images.githubusercontent.com/108179268/176282828-9ca8d288-c6d8-40ba-af16-b747c0dc0e59.gif)"> 
  </div>
  
  ##
+
